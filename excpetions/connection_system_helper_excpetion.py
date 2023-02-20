@@ -1,0 +1,3 @@
+
+class ConnectionSystemHelperException(Exception):
+    pass

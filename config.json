@@ -1,0 +1,10 @@
+{
+  "connection_system_helper":
+  {
+    "table_name": "users"
+  },
+  "animals_system_helper":
+  {
+    "table_name": "animals"
+  }
+}
